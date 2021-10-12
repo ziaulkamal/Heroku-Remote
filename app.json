@@ -1,5 +1,5 @@
 {
-  "name": "VPS BY RixEtte",
+  "name": "VPS HEROKU Z14",
   "description": "Deploy VNC to Heroku.",
   "keywords": ["VNC", "Docker"],
   "env": {
